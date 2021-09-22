@@ -1,0 +1,8 @@
+.lg-btn {
+  border-radius: 20px !important;
+  background-color: #61acb3 !important;
+  color: #fffffe !important;
+}
+.lg-btn:hover {
+  background-color: #4267b2 !important;
+}
